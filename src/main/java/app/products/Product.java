@@ -1,4 +1,4 @@
-package models.products;
+package app.products;
 
 public class Product {
 }
